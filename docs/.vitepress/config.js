@@ -14,8 +14,23 @@ export default {
     },
     nav: [
       {
-        text: "web learn note",
+        text: "前言",
         link: "/0/0.0.md",
+        activeMatch: "/",
+      },
+      {
+        text: "数据结构",
+        link: "/1/1.1.md",
+        activeMatch: "/",
+      },
+      {
+        text: "算法",
+        link: "/2/2.1.md",
+        activeMatch: "/",
+      },
+        {
+        text: "vue",
+        link: "/3/3.1.md",
         activeMatch: "/",
       }
     ],
