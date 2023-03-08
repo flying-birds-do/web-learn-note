@@ -1,4 +1,3 @@
-<div align=center><img src="https://s1.ax1x.com/2023/02/27/pp9zsgg.png"/></div>
 
 # web-learn-note
 
