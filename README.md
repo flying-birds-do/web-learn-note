@@ -1,10 +1,10 @@
+<div align=center><img src="https://s1.ax1x.com/2023/02/27/pp9zsgg.png"/></div>
 
-web 学习笔记
 # web-learn-note
 
 ## 项目介绍
 
-本文档是笔者领域驱动设计实践的总结。
+本文档是笔者学习的记录.
 
 ## 阅读方法
 
