@@ -1,8 +1,8 @@
 {
-  "name": "Thinking-in-DDD",
+  "name": "web-learn-note",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/feiniaojin/Thinking-in-DDD.git",
+  "repository": "https://github.com/flying-birds-do/web-learn-note.git",
   "author": "qinyujie3 <qinyujie3@jd.com>",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.40",
